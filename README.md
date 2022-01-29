@@ -1,4 +1,4 @@
-# MoonDAO website
+# SatelliteDAO website
 
 This website is built using the [Docusaurus 2](https://v2.docusaurus.io/) static website generator.
 
@@ -69,16 +69,16 @@ This command will update the `i18n/zh-Hans/code.json` file which contains the tr
 For example, the message:
 
 ```json
-"Send a MoonDAO member to space": {
-  "message": "Send a MoonDAO member to space"
+"Send a SatelliteDao member to space": {
+  "message": "Send a satellite to space."
 },
 ```
 
 should be updated to be:
 
 ```json
-"Send a MoonDAO member to space": {
-  "message": "将 MoonDAO 成员送入太空"
+"Send a satellite to space": {
+  "message": "将通信卫星送入太空"
 },
 ```
 
