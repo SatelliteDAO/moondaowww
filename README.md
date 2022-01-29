@@ -2,7 +2,7 @@
 
 This website is built using the [Docusaurus 2](https://v2.docusaurus.io/) static website generator.
 
-[https://moondao.com](https://moondao.com)
+[https://satellitedao.io/](https://satellitedao.io/)
 
 ## Installation
 
